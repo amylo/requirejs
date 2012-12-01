@@ -139,8 +139,6 @@ doh.registerUrl("relativeOutsideBaseUrl", "../relative/outsideBaseUrl/a/outsideB
 
 doh.registerUrl("remoteUrls", "../remoteUrls/remoteUrls.html");
 
-doh.registerUrl("reservedNames", "../reservedNames/reservedNames.html");
-
 doh.registerUrl("queryPath", "../queryPath.html");
 
 doh.registerUrl("trailingComma", "../trailingComma/trailingComma.html");
